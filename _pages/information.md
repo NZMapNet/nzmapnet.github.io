@@ -9,7 +9,8 @@ header:
 
 ## Key dates
 
-MapNet Meeting 03-04 November, 2026
+| Registrations opening | June 2026 |
+| MapNet Meeting | 03-04 November, 2026 |
 
 <!--
 | Deadline for abstract submission | 14 October, 2023 |
