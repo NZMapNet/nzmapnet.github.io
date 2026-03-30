@@ -18,7 +18,7 @@ gene mapping related R&D in a range of organisms valuable to NZ's economy,
 ecology and culture’.  Participation in MapNet is voluntary, and at an 
 individual researcher level. 
 
-Organisations represented include Universities (Auckland, Canterbury, Massey, 
+Organisations previously represented include Universities (Auckland, Canterbury, Massey, 
 Otago, Unitec, Victoria), Crown Research Institutes (AgResearch, Environmental 
 Science and Research, Manaaki Wehenua - Landcare Research, NIWA, Plant & Food 
 Research, Scion) and private entities (AbacusBio, Livestock 
