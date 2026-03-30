@@ -9,6 +9,10 @@ header:
 
 ## Travel Grants
 
+Information will be added closer to the conference date.
+
+<!--
+
 **Please note travel grants have now closed.** 
 
 We are pleased to announce we will be offering both student and early career grants this year.
