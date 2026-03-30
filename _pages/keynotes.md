@@ -7,6 +7,9 @@ header:
 
 # Keynotes
 
+Information will be added closer to the conference date.
+
+<!--
 We are pleased to announce our 2025 keynote speakers:
 
 ---
