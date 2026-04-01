@@ -9,6 +9,9 @@ header:
 
 # Registration
 
+Information will be added closer to the conference date.
+
+<!--
 MapNet [registration](https://events.humanitix.com/mapnet2025) is now open.
 
 **Registration link:** [https://events.humanitix.com/mapnet2025](https://events.humanitix.com/mapnet2025)

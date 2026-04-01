@@ -19,7 +19,7 @@ Participants engaging in harassing behaviour may be sanctioned in any way organi
  
 In addition, if the harassing behaviour is part of a sponsor's display or a talk the display will be removed or the talk stopped without refund of the sponsorship.
 
-**MapNet 2025 participants agree to**:
+**MapNet participants agree to**:
 
 - Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees.
 - Refrain from demeaning, discriminatory, or harassing behaviour and speech. Harassment includes, but is not limited to:
@@ -44,21 +44,18 @@ All slides and presentation materials are subject to the code of conduct. Materi
 
 ## Need help?
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact one of the MapNet team (listed below).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please email us at <a hef="mailto:mapnetnz@gmail.com">mapnetnz@gmail.com</a> or contact one of the MapNet team directly (listed below).
 
 ## MapNet team
 
-- Rachael Ashby
-- Samantha Baldwin
-- Mik Black
-- Rebecca Bloomer
-- Rebecca Clarke
-- Shannon Clarke
-- Ting-Hsuan Chen
-- Ken Dodds
-- Jeanne Jacobs
-- Alastair Lamont
-- Phillip Wilcox
+- Chad Harland
+- Emma Voss
+- Fenella Deans
+- Hannah Trebes
+- Laura Duntsch
+- Natalie Graham
+- Steffi Fritsche
+- Thomas Lopdell
 
 #### Adapted with permission from:
 
