@@ -47,7 +47,9 @@ All changes to main must happen via a seperate branch and PR.
 
 #### Make basic website updates (for a new year/meeting)
 2. Update `_data/authors.yml` to reflect the new year and meeting date.
-3. Restrict the website pages published.
+3. Ensure that when you click "Commit changes..." you are commiting to the branch you have created. (radio-button selection)
+      <img width="488" height="530" alt="image" src="https://github.com/user-attachments/assets/ce38fef5-7bcf-4512-8838-a1a1b036cee6" />
+4. Restrict the website pages published.
     We recommend as a starting point, keep the pages Information, About, Contact and Conduct.
     As it's likely you don't have all the information yet edit `_data/navigation.yml` by commenting out (adding a `#` at the start of the line) any pages you don't want to be published.
     You can edit this file to publish pages at any point, simply remove the `#` for the page you desire.
@@ -60,10 +62,10 @@ All changes to main must happen via a seperate branch and PR.
     #   - title: "Programme"
     #     url: /programme/
     ```
-4. Create a new directory under assets. Upload any digital assets you'd like to have displayed on the website to this new directory.
-5. Update the home/landing page. Add/update basic details in `_pages/index.md`. We recommend adding in a sentence that other pages and more information will be added and updated closer to the conference date.
-6. Update the pages you've chosen to keep published.
-7. Update pages you don't currently have published. We recommend a simple "Information will be added closer to the conference date.".
+5. Create a new directory under assets. Upload any digital assets you'd like to have displayed on the website to this new directory.
+6. Update the home/landing page. Add/update basic details in `_pages/index.md`. We recommend adding in a sentence that other pages and more information will be added and updated closer to the conference date.
+7. Update the pages you've chosen to keep published.
+8. Update pages you don't currently have published. We recommend a simple "Information will be added closer to the conference date.".
     This is because while these pages can't be navigated to through the website, links to them (like on google), or users directly entering the URL can still access these pages.
     Alternatively you can delete the file for these pages (e.g. `_pages/programme.md`), and they can be recreated in future if needed.
 
