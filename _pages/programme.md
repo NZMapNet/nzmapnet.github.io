@@ -9,6 +9,10 @@ header:
 
 # Programme
 
+Information will be added closer to the conference date.
+
+
+<!--
 [**Click here for the conference programme**](../assets/MapNet_booklet_programme.pdf)
 
 

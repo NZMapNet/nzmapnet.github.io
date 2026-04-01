@@ -7,6 +7,9 @@ header:
 
 # Abstracts
 
+Abstract information will be added closer to the conference date.
+
+<!--
 Download: [abstract submission template](https://mapnet2025.github.io/assets/MapNet-Abstract-Template-2025.docx)
 
 - The deadline for abstract submission has been extended to 5pm 21st October, 2025.
