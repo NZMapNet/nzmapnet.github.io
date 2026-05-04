@@ -25,9 +25,8 @@ The purpose of this repository is to provide a space for storing and publishing 
 ┣ 📜 .DS_Store
 ┣ 📜 Gemfile
 ┣ 📜 _config.yaml
-┣ 📜 google77b8489ab1d401a0.html
-┣ 📜 googlef5afe4ad39d25377.html
-┗ 📜 robots.txt
+┣ 📜 google_XXX.html                   Google website verification file
+┗ 📜 robots.txt                        File for bots to navigate the site
 ```
 
 ### Updating the website
@@ -101,3 +100,4 @@ You can easily come back and repeat this process to make more changes to the pub
     <img width="873" height="230" alt="image" src="https://github.com/user-attachments/assets/b1dafb31-9aed-4997-911e-80ccfce90953" />
 22. Click the "Squash and Merge" button to merge your changes to the main branch and have them be live on MapNet website.
 23. Double check that the branch we are deploying from is `main` in the page settings.
+24. Once you have squashed and merged your branch into `main`, delete the branch you were working on.
