@@ -93,6 +93,3 @@ The conference themes, program and other information will be updated closer to t
 <!-- ![MapNet](../assets/mapnet.jpg) -->
    
 <!-- <span></span> -->
-
-MapNet2026 Website in progress
-
