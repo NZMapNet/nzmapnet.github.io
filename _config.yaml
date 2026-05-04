@@ -8,9 +8,9 @@ locale: "en-NZ"
 title_separator: "-"
 title: "MapNet26"
 description: "MapNet conference 2026, Hamilton"
-url                      : "https://github.com/MapNet2026"
+url                      : "https://github.com/NZMapNet"
 baseurl                  : "/"        
-repository               : "https://mapnet2026.github.io"
+repository               : "https://NZMapNet.github.io"
 teaser                   : "/assets/mapnet.jpg"
 words_per_minute         : 200
 
@@ -21,7 +21,7 @@ author:
 
 # Hide feed
 atom_feed:
-  path: "https://github.com/mapnet2026.github.io"
+  path: "https://github.com/NZMapNet.github.io"
 
 # Reading Files
 include:
