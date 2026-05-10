@@ -6,8 +6,8 @@ google-site-verification: googlef5afe4ad39d25377.html
 # Site settings
 locale: "en-NZ"
 title_separator: "-"
-title: "MapNet26"
-description: "MapNet conference 2026, Hamilton"
+title: "NZ MapNet 2026"
+description: "MapNet conference 2026, Hamilton, New Zealand"
 url                      : "https://github.com/NZMapNet"
 baseurl                  : "/"        
 repository               : "https://NZMapNet.github.io"
