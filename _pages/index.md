@@ -1,6 +1,6 @@
 ---
 permalink: /
-Title: ""
+Title: "NZ MapNet 2026"
 excerpt: ""
 header:
     overlay_image: "/assets/2026/banner_blank.png"
@@ -21,7 +21,7 @@ header:
 ![poster](../assets/2026/mapnet26_save_the_date.png)
 
 # Welcome to the 2026 MapNet meeting
-MapNet2026 will be held on the LIC (Livestock Improvement Corporation) campus in Newstead Hamilton, 3rd - 4th November 2026.
+MapNet NZ 2026 will be held on the LIC (Livestock Improvement Corporation) campus in Newstead Hamilton, 3rd - 4th November 2026.
 
 The conference themes, program and other information will be updated closer to the meeting date and posted here.
 
