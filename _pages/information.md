@@ -24,7 +24,7 @@ header:
 
 ## Location
 
-MapNet 2026 is being held in the Tempero Center, LIC (Livestock Improvement Corporation), Newstead, Hamilton.
+MapNet 2026 is being held in the [Tempero Center, LIC (Livestock Improvement Corporation)](https://maps.app.goo.gl/kDXq9xjbcBQDU2vN8), Newstead, Hamilton.
 
 
 ## Social Media
