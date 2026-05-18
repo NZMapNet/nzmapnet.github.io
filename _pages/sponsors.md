@@ -9,7 +9,7 @@ header:
 
 # MapNet 2026 Sponsors
 
-## Platinum Speaker Sponsors
+## Platinum Sponsors
 
 <div class="sponsor-grid">
     <a href="#"><img src="assets/2026/sponsors/Decode.png"></a> <!-- $2000-$2500 KeyNote -->
