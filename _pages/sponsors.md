@@ -13,6 +13,7 @@ header:
 
 <div class="sponsor-grid">
     <a href="#"><img src="assets/2026/sponsors/Decode.png"></a> <!-- $2000-$2500 KeyNote -->
+    <a href="#"><img src="assets/2026/sponsors/LIC.png"></a> <!-- Venue, parking -->
     <a href="#"><img src="assets/2026/sponsors/Real_Time_Genomics.png"></a> <!-- $3000 KeyNote & Student 2nd prize? -->
 </div>
 
