@@ -22,13 +22,13 @@ header:
 <div class="sponsor-grid">
     <a href="#"><img src="assets/2026/sponsors/Azora_Biosciences.png"></a> <!-- $1000 flexible use -->
     <a href="#"><img src="assets/2026/sponsors/Biorad.png"></a> <!-- $500-$1500 -->
+    <a href="#"><img src="assets/2026/sponsors/DNature.png"></a> <!-- $500 student prizes -->
+    <a href="#"><img src="assets/2026/sponsors/RPBC.png"></a> <!-- $500 student travel grant & 1st place student prize $150 -->
 </div>
 
-## Silver Student Sponsors
+## Silver Sponsors
 
 <div class="sponsor-grid">
-    <a href="#"><img src="assets/2026/sponsors/DNature.png"></a> <!-- $500 student prizes -->
     <a href="#"><img src="assets/2026/sponsors/Geneious.png"></a> <!-- Academic Personal Geneious Prime license as a prize value approx $650 -->
-    <a href="#"><img src="assets/2026/sponsors/RPBC.png"></a> <!-- $500 student travel grant & 1st place student prize $150 -->
 </div>
 
