@@ -13,6 +13,8 @@ main:
 #     url: /workshops/
    - title: "About"
      url: /about/
+   - title: "Sponsors"
+     url: /sponsors/
    - title: "Contact"
      url: /contact/
    - title: "Conduct"

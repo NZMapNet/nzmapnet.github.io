@@ -12,3 +12,19 @@
     border-radius: 0;
   }
 }
+
+.sponsor-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 30px;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.sponsor-grid img {
+  max-width: 100%;
+  max-height: 100px;
+  object-fit: contain;
+  transition: none;
+  filter: none;
+}
