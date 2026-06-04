@@ -3,6 +3,7 @@ permalink: /sponsors/
 header:
     cta_label: False
     cta_url: False
+Title: "NZ MapNet 2026 Sponsors"
 ---
 
 <span></span>
