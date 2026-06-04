@@ -23,6 +23,7 @@ header:
     <a href="#"><img src="/assets/2026/sponsors/Azora.png"></a> <!-- $1000 flexible use -->
     <a href="#"><img src="/assets/2026/sponsors/DNature.png"></a> <!-- $500 student prizes -->
     <a href="#"><img src="/assets/2026/sponsors/RPBC.png"></a> <!-- $500 student travel grant & 1st place student prize $150 -->
+    <a href="#"><img src="/assets/2026/sponsors/customscience.png"></a> <!-- $500 & free coffee cart -->
 </div>
 
 ## Silver Sponsors
