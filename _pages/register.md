@@ -9,7 +9,9 @@ header:
 
 # Registration
 
-Information will be added closer to the conference date.
+Registration for MapNet26 will open in June 2026.
+
+Prices, grants, and more information coming soon!
 
 <!--
 MapNet [registration](https://events.humanitix.com/mapnet2025) is now open.
