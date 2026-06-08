@@ -7,7 +7,7 @@ header:
 
 # Abstracts
 
-Abstract information will be added closer to the conference date.
+Abstract information will be added closer to the conference date (likely July).
 
 <!--
 Download: [abstract submission template](https://mapnet2025.github.io/assets/MapNet-Abstract-Template-2025.docx)
