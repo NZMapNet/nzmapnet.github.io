@@ -7,7 +7,19 @@ header:
 
 # Keynotes
 
-Information will be added closer to the conference date.
+## Dr Ben Hayes
+### The University of Queensland
+#### Professorial Research Fellow, Queensland Alliance for Agriculture and Food Innovation
+
+<img src="../assets/2026/keynote_ben_hayes.jpeg" alt="Professor Ben Hayes" width="200" style="border-radius:8px; margin-bottom:10px;" />
+
+## Dr Maren Wellenreuther
+### Bioeconomy Science Institute
+#### Sciece Group Leader, Seafood Production
+#### Professor, University of Auckland
+
+<img src="../assets/2026/keynote_maren_wellenreuther.jpg" alt="Dr Maren Wellenreuther" width="200" style="border-radius:8px; margin-bottom:10px;" />
+
 
 <!--
 We are pleased to announce our 2025 keynote speakers:
