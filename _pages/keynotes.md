@@ -14,8 +14,8 @@ header:
 
   <img src="../assets/2026/keynote_ben_hayes.jpeg" alt="Professor Ben Hayes" />
 
-  <h3>The University of Queensland</h3>
-  <h4>Professorial Research Fellow, Queensland Alliance for Agriculture and Food Innovation</h4>
+  <p>The University of Queensland</p>
+  <p>Professorial Research Fellow, Queensland Alliance for Agriculture and Food Innovation</p>
 </div>
 
 <div class="keynote-card">
@@ -23,9 +23,9 @@ header:
 
   <img src="../assets/2026/keynote_maren_wellenreuther.jpg" alt="Dr Maren Wellenreuther" />
 
-  <h3>Bioeconomy Science Institute</h3>
-  <h4>Science Group Leader, Seafood Production</h4>
-  <h4>Professor, University of Auckland</h4>
+  <p>Bioeconomy Science Institute</p>
+  <p>Science Group Leader, Seafood Production</p>
+  <p>Professor, University of Auckland</p>
 </div>
 
 </div>
