@@ -28,3 +28,31 @@
   transition: none;
   filter: none;
 }
+
+.keynote-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 40px;
+  margin-top: 20px;
+}
+
+.keynote-card {
+  text-align: center;
+}
+
+.keynote-card img {
+  width: 200px;
+  max-width: 100%;
+  border-radius: 8px;
+  margin: 10px 0 15px 0;
+}
+
+.keynote-card h2 {
+  margin-bottom: 5px;
+}
+
+.keynote-card h3,
+.keynote-card h4 {
+  margin: 3px 0;
+  font-weight: normal;
+}
