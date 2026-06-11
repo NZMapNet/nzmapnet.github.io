@@ -17,10 +17,11 @@ header:
       </div>
       <div class="keynote-text">
         <h2>Dr Ben Hayes</h2>
+        <p class="institution">Queensland Alliance for Agriculture and Food Innovation</p>
+        <p class="role">Professorial Research Fellow</p>
         <p class="institution">The University of Queensland</p>
-        <p class="role">Professorial Research Fellow, Queensland Alliance for Agriculture and Food Innovation</p>
+        <p class="role">Professor</p>
         <p class="bio">
-          Add a short paragraph about the speaker here. This area can be longer and will wrap nicely.
         </p>
       </div>
     </div>
@@ -35,10 +36,9 @@ header:
         <h2>Dr Maren Wellenreuther</h2>
         <p class="institution">Bioeconomy Science Institute</p>
         <p class="role">Science Group Leader, Seafood Production</p>
-        <p class="institution">Professor</p>
-        <p class="role"> University of Auckland</p>
+        <p class="institution">University of Auckland</p>
+        <p class="role">Professor</p>
         <p class="bio">
-          Add a short paragraph about the speaker here. This area can be longer and will wrap nicely.
         </p>
       </div>
     </div>
