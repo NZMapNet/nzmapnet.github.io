@@ -12,20 +12,24 @@ header:
 <div class="keynote-card">
   <h2>Dr Ben Hayes</h2>
 
-  <img src="../assets/2026/keynote_ben_hayes.jpeg" alt="Professor Ben Hayes" />
+  <div class="keynote-content">
+    ../assets/2026/keynote_ben_hayes.jpeg
 
-  <p>The University of Queensland</p>
-  <p>Professorial Research Fellow, Queensland Alliance for Agriculture and Food Innovation</p>
+    <p>The University of Queensland</p>
+    <p>Professorial Research Fellow, Queensland Alliance for Agriculture and Food Innovation</p>
+  </div>
 </div>
 
 <div class="keynote-card">
   <h2>Dr Maren Wellenreuther</h2>
+  <div class="keynote-content">
+    ../assets/2026/keynote_maren_wellenreuther.jpg
 
-  <img src="../assets/2026/keynote_maren_wellenreuther.jpg" alt="Dr Maren Wellenreuther" />
+    <p>Bioeconomy Science Institute</p>
+    <p>Science Group Leader, Seafood Production</p>
+    <p>Professor, University of Auckland</p>
+  </div>
 
-  <p>Bioeconomy Science Institute</p>
-  <p>Science Group Leader, Seafood Production</p>
-  <p>Professor, University of Auckland</p>
 </div>
 
 </div>
