@@ -37,32 +37,62 @@
 }
 
 .keynote-card {
-  text-align: center;
+  padding: 20px;
+  border-radius: 12px;
+  background: #f9f9f9;
 }
 
-.keynote-card img {
-  width: 300px;
+.keynote-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+/* Image styling */
+.keynote-image img {
+  width: 150px;
   max-width: 100%;
   border-radius: 8px;
-  margin: 10px 0 15px 0;
+  display: block;
 }
 
-.keynote-card h2 {
-  margin-bottom: 5px;
+/* Text block */
+.keynote-text {
+  flex: 1;
+}
+
+/* Spacing & typography */
+.keynote-text h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.keynote-text p {
+  margin: 4px 0;
+}
+
+.keynote-text .institution {
+  font-weight: bold;
+}
+
+.keynote-text .role {
+  font-weight: normal;
+}
+
+.keynote-text .bio {
+  margin-top: 10px;
 }
 
 
-.keynote-content {
-  max-width: 200px;   /* same as image width */
-  margin: 0 auto;     /* centered */
+@media (max-width: 600px) {
+  .keynote-row {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .keynote-image img {
+    width: 200px;
+  }
 }
 
-.keynote-content img {
-  width: 100%;
-  border-radius: 8px;
-  margin: 10px 0;
-}
-
-.keynote-content p {
-  margin: 5px 0;
-}
