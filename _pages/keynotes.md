@@ -5,8 +5,6 @@ header:
   cta_url: false
 ---
 
-# Keynotes
-
 <div class="keynote-grid">
   
   
