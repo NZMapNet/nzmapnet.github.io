@@ -9,23 +9,39 @@ header:
 
 <div class="keynote-grid">
   
-  <div class="keynote-card">
-    <h2>Dr Ben Hayes</h2>
-    <div class="keynote-content">
-      <img src="../assets/2026/keynote_ben_hayes.jpeg" alt="Professor Ben Hayes" />
-      <p>The University of Queensland</p>
-      <p>Professorial Research Fellow, Queensland Alliance for Agriculture and Food Innovation</p>
-    </div>
-  </div>
   
   <div class="keynote-card">
-    <h2>Dr Maren Wellenreuther</h2>
-    <div class="keynote-content">
-      <img src="../assets/2026/keynote_maren_wellenreuther.jpg" alt="Dr Maren Wellenreuther" />
-      <p>Bioeconomy Science Institute</p>
-      <p>Science Group Leader, Seafood Production</p>
-      <p>Professor, University of Auckland</p>
+    <div class="keynote-row">
+      <div class="keynote-image">
+        <img src="../assets/2026/keynote_ben_hayes.jpeg" alt="Professor Ben Hayes" />
+      </div>
+      <div class="keynote-text">
+        <h2>Dr Ben Hayes</h2>
+        <p class="institution">The University of Queensland</p>
+        <p class="role">Professorial Research Fellow, Queensland Alliance for Agriculture and Food Innovation</p>
+        <p class="bio">
+          Add a short paragraph about the speaker here. This area can be longer and will wrap nicely.
+        </p>
+      </div>
     </div>
   </div>
 
+  <div class="keynote-card">
+    <div class="keynote-row">
+      <div class="keynote-image">
+        <img src="../assets/2026/keynote_maren_wellenreuther.jpg" alt="Dr Maren Wellenreuther" />
+      </div>
+      <div class="keynote-text">
+        <h2>Dr Maren Wellenreuther</h2>
+        <p class="institution">Bioeconomy Science Institute</p>
+        <p class="role">Science Group Leader, Seafood Production</p>
+        <p class="institution">Professor</p>
+        <p class="role"> University of Auckland</p>
+        <p class="bio">
+          Add a short paragraph about the speaker here. This area can be longer and will wrap nicely.
+        </p>
+      </div>
+    </div>
+  </div>
+  
 </div>
