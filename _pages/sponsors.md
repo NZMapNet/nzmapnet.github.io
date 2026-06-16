@@ -12,7 +12,7 @@ header:
 <div class="sponsor-grid">
     <a href="https://decodescience.com.au/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/Decode.png"></a> <!-- $2000-$2500 KeyNote -->
     <a href="https://www.lic.co.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/LIC.png"></a> <!-- Venue, parking -->
-    <a href="https://www.realtimegenomics.com/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/RTG.png"></a> <!-- $3000 KeyNote & Student 2nd prize? -->
+    <a href="https://www.netvalue.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/NetValue.jpg"></a> <!-- $3000 KeyNote & Student 2nd prize? -->
 </div>
 
 # Gold Sponsors
