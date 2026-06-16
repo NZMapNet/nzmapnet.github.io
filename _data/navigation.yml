@@ -1,5 +1,7 @@
 main:
-   - title: "Information"
+   - title: "About"
+     url: /about/
+   - title: "Event Information"
      url: /info/
 #   - title: "Programme"
 #     url: /programme/
@@ -11,8 +13,7 @@ main:
 #     url: /abstracts/
 #   - title: "Workshops"
 #     url: /workshops/
-   - title: "About"
-     url: /about/
+
    - title: "Sponsors"
      url: /sponsors/
    - title: "Contact"
