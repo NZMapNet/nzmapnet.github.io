@@ -25,7 +25,7 @@ MapNet NZ 2026 will be held on the LIC (Livestock Improvement Corporation) campu
 
 The conference themes, program and other information will be updated closer to the meeting date and posted here.
 
-## Registrations opening in June 2026
+## Registrations opening in July 2026
 
 
 

@@ -42,6 +42,14 @@ Sponsors are also subject to the anti-harassment policy. In particular, sponsors
 
 All slides and presentation materials are subject to the code of conduct. Materials should not have offensive or sexualised content. If this content is impossible to avoid given the topic, it should be noted both in the abstract and at the start of the talk.
 
+## Social Media
+
+<!--
+If you are using X (a.k.a. the social media platform formerly known as Twitter), tag your conference posts #mapn25
+-->
+
+Please respect the requests of speakers and conference attendees that ask or suggest not to be included in social media posts.
+
 ## Need help?
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please email us at <a hef="mailto:mapnetnz@gmail.com">mapnetnz@gmail.com</a> or contact one of the MapNet team directly (listed below).
