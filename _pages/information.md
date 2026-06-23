@@ -9,7 +9,7 @@ header:
 
 ## Key dates
 
-| Registrations opening | June 2026 |
+| Registrations opening | July 2026 |
 | MapNet Meeting | 03-04 November, 2026 |
 | Workshop / Excursion | 05 November 2026 |
 
@@ -28,14 +28,6 @@ MapNet 2026 is being held in the [Tempero Center, LIC (Livestock Improvement Cor
 
 ![LIC Office](../assets/2026/LIC_office.png)
 
-
-## Social Media
-
-<!--
-If you are using X (a.k.a. the social media platform formerly known as Twitter), tag your conference posts #mapn25
--->
-
-Please respect the requests of speakers and conference attendees that ask or suggest not to be included in social media posts.
 
 <!-- ## Travel -->
 
