@@ -9,7 +9,7 @@ header:
 
 # Registration
 
-Registration for MapNet26 will open in June 2026.
+Registration for MapNet26 will open in July 2026.
 
 Prices, grants, and more information coming soon!
 
