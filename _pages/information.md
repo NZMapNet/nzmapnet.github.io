@@ -33,7 +33,7 @@ MapNet 2026 is being held in the [Tempero Center, LIC (Livestock Improvement Cor
 
 ### Dinner
 
-The Conference dinner this year will be held at [Zenders] (https://zenders.nz/), which is 2km from LIC. This is a 2 minute drive from the conference site. You will be able to elect to join us for the dinner and inform us of any dietary requirements when purchasing your conference ticket.
+The Conference dinner this year will be held at [Zenders](https://zenders.nz/), which is 2km from LIC. This is a 2 minute drive from the conference site. You will be able to elect to join us for the dinner and inform us of any dietary requirements when purchasing your conference ticket.
 
 <!-- ## Travel -->
 
