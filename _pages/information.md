@@ -11,6 +11,7 @@ header:
 
 | Registrations opening | July 2026 |
 | MapNet Meeting | 03-04 November, 2026 |
+| Conference Dinner | 03 November, 2026 |
 | Workshop / Excursion | 05 November 2026 |
 
 <!--
@@ -24,10 +25,15 @@ header:
 
 ## Location
 
+### Conference
+
 MapNet 2026 is being held in the [Tempero Center, LIC (Livestock Improvement Corporation)](https://maps.app.goo.gl/kDXq9xjbcBQDU2vN8), Newstead, Hamilton.
 
 ![LIC Office](../assets/2026/LIC_office.png)
 
+### Dinner
+
+The Conference dinner this year will be held at [Zenders] (https://zenders.nz/), which is 2km from LIC. This is a 2 minute drive from the conference site. You will be able to elect to join us for the dinner and inform us of any dietary requirements when purchasing your conference ticket.
 
 <!-- ## Travel -->
 
@@ -37,17 +43,5 @@ MapNet 2026 is being held in the [Tempero Center, LIC (Livestock Improvement Cor
 <!-- ## Accommodation -->
 
 <!-- The best low cost and convenient accomodation option for MapNet 2019 is [Te Puni Village](https://www.mystudentvillage.com/nz/short-stays-newzealand/te-puni-village). Click on "Book now". Use the code MapNet2019 in the promo field after selecting the dates for your stay.-->
-
-
-## Conference organising committee:
-
-- Chad Harland
-- Emma Voss
-- Fenella Deans
-- Hannah Trebes
-- Laura Duntsch
-- Natalie Graham
-- Steffi Fritsche
-- Thomas Lopdell
 
 
