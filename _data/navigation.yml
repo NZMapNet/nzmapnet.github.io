@@ -3,8 +3,8 @@ main:
      url: /about/
    - title: "Event Information"
      url: /info/
-#   - title: "Programme"
-#     url: /programme/
+   - title: "Programme"
+     url: /programme/
 #   - title: "Keynotes"
 #     url: /keynotes/
    - title: "Register"
