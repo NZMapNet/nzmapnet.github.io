@@ -28,23 +28,3 @@ Her contributions have been recognised through several international honours, in
     </div>
   </div>
 </div>
-
-
-<!--
-  <div class="keynote-card">
-    <div class="keynote-row">
-      <div class="keynote-image">
-        <img src="../assets/2026/keynote_ben_hayes.jpeg" alt="Professor Ben Hayes" />
-      </div>
-      <div class="keynote-text">
-        <h2>Dr Ben Hayes</h2>
-        <p class="institution">Queensland Alliance for Agriculture and Food Innovation</p>
-        <p class="role">Professorial Research Fellow</p>
-        <p class="institution">The University of Queensland</p>
-        <p class="role">Professor</p>
-        <p class="bio">
-        </p>
-      </div>
-    </div>
-  </div>
-
