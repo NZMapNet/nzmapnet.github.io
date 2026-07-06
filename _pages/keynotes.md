@@ -28,12 +28,11 @@ header:
   </div>
 
   <div class="keynote-card">
-    <div class="keynote-row">
+    <h2>Dr Maren Wellenreuther</h2>
       <div class="keynote-image">
         <img src="../assets/2026/Maren.jpg" alt="Dr Maren Wellenreuther" />
       </div>
       <div class="keynote-text">
-        <h2>Dr Maren Wellenreuther</h2>
         <p class="institution">Bioeconomy Science Institute</p>
         <p class="role">Science Group Leader, Seafood Production</p>
         <p class="institution">University of Auckland</p>
@@ -45,7 +44,6 @@ Her research career spans Germany, Australia, New Zealand, and Sweden, where she
 
 Her contributions have been recognised through several international honours, including the Petersen Professorship of Excellence (Germany, 2026), the Royal Society Te Apārangi Early Career Research Excellence Award (New Zealand, 2018), and the KVA King Carl XVI Gustaf’s 50-year Scholarship for the Promotion and Contribution to the Knowledge and Preservation of Biological Diversity (Sweden, 2013). As a Humboldt Fellow (Germany, 2024), she is committed to advancing next-generation genomic and experimental tools to improve the sustainability, resilience, and productivity of aquatic ecosystems and seafood production systems. She leads a dynamic research group of over 30 scientists plus students working across a diverse range of projects in fundamental research investigating epigenomic adaptation, structural variation, and climate resilience, alongside more applied work in aquaculture and fisheries science.
         </p>
-      </div>
     </div>
   </div>
   
