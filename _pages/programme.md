@@ -23,9 +23,6 @@ Likely session topics include aquaculture, microbiology, conservation genetics, 
 There will be student flash talks and prizes. Optional workshops, site visits, or tours may also be included in the final programme.
 
 
-<!--
-[**Click here for the conference programme**](../assets/MapNet_booklet_programme.pdf)
-
 
 
 
