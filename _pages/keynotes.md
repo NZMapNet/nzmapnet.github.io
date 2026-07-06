@@ -30,7 +30,7 @@ header:
   <div class="keynote-card">
     <div class="keynote-row">
       <div class="keynote-image">
-        <img src="../assets/2026/keynote_maren_wellenreuther.jpg" alt="Dr Maren Wellenreuther" />
+        <img src="../assets/2026/Maren.jpg" alt="Dr Maren Wellenreuther" />
       </div>
       <div class="keynote-text">
         <h2>Dr Maren Wellenreuther</h2>
