@@ -5,8 +5,8 @@ main:
      url: /info/
    - title: "Programme"
      url: /programme/
-#   - title: "Keynotes"
-#     url: /keynotes/
+   - title: "Keynotes"
+     url: /keynotes/
    - title: "Register"
      url: /register/
 #   - title: "Abstracts"
