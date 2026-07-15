@@ -14,16 +14,6 @@ header:
 | Conference Dinner | 03 November, 2026 |
 | Workshop / Excursion | 05 November 2026 |
 
-<!--
-| Deadline for abstract submission | 14 October, 2023 |
-| Registration closes | 21 October, 2023 |
-| MapNet | 22-24 November, 2023 | 
-|        | Start time: 1:00pm (22/11/23) | 
-|        | Finish time: 3:00pm (24/11/23) |
--->
-
-
-## Location
 
 ### Conference
 
@@ -35,13 +25,16 @@ MapNet 2026 is being held in the [Tempero Center, LIC (Livestock Improvement Cor
 
 The Conference dinner this year will be held at [Zenders](https://zenders.nz/), which is 2km from LIC. This is a 2 minute drive from the conference site. You will be able to elect to join us for the dinner and inform us of any dietary requirements when purchasing your conference ticket.
 
-<!-- ## Travel -->
+![Zenders](../assets/2026/zenders.jpg)
 
-<!-- Wellington airport (WLG) is about 9 km to Victoria University. Taxis from the airport cost $40+ and take half an hour or so. There are also shared shuttle services which can drop you in the centre of town or at your accommodation for about $18–25, and take around an hour. The airport bus will take you to the center city, where you can transfer to a bus to VUW. -->
+### Workshop
 
+REANNZ and Genomics Aotearoa have come together to run a one day workshop on [RNA-Seq Data Analysis](https://genomicsaotearoa.github.io/RNA-seq-workshop/). This will begin at approximately 8:30am. This event is catered.
 
-<!-- ## Accommodation -->
+![RNA-Seq Data Analysis image](../assets/2026/rna-seq.png)
 
-<!-- The best low cost and convenient accomodation option for MapNet 2019 is [Te Puni Village](https://www.mystudentvillage.com/nz/short-stays-newzealand/te-puni-village). Click on "Book now". Use the code MapNet2019 in the promo field after selecting the dates for your stay.-->
+### Farm Tour
 
+LIC is offering the opportunity to tour their working dairy farm 'Innovation Farm'. This tour will be led by the farm manager and one of LIC's scientists and will include the purpose-built methane research barn, the milking shed, getting up close with the cows, and more. Transport to and from the farm will be provided from the conference venue at LIC. This event is catered.
 
+![LIC Innovation Farm calf in Methane barn](../assets/2026/lic_methane_barn_calf.jpg)
