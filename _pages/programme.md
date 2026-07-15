@@ -15,7 +15,7 @@ Please note this is a preliminary schedule and timings may change.
 |----------|----------|----------|----------|
 | 1 | 8:30 am | Late evening | Registration opens at 8:30 am; formal sessions finish around 4:30pm, then Happy Hour; conference dinner from 6:00 pm |
 | 2 | 8:30 am | Late afternoon | Formal sessions finish around 4:30 pm; informal activities (i.e. board games) until evening |
-| 3 | 8:30 am | Midday / afternoon | Workshop 9am -1pm; **OR** Farm Tour 9am - 1pm |
+| 3 | 8:30 am | Midday / afternoon | Workshop 9am - 5pm; **OR** Farm Tour 9am - 1pm |
 
 
  
