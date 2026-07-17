@@ -19,7 +19,7 @@ header:
 
 <div class="sponsor-grid">
     <a href="https://azorabio.com/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/Azora.png"></a> <!-- $1000 flexible use -->
-    <a href="https://https://www.bio-rad.com/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/bio-rad.png"></a> <!-- $750 -->
+    <a href="https://www.bio-rad.com/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/bio-rad.png"></a> <!-- $750 -->
     <a href="https://www.customscience.co.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/customscience.png"></a> <!-- $500 & free coffee cart -->
     <a href="https://dnature.co.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/DNature.png"></a> <!-- $500 student prizes -->
     <a href="https://rpbc.co.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/RPBC.png"></a> <!-- $500 student travel grant & 1st place student prize $150 -->
@@ -30,5 +30,11 @@ header:
 
 <div class="sponsor-grid">
     <a href="https://www.geneious.com/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/Geneious.png"></a> <!-- Academic Personal Geneious Prime license as a prize value approx $650 -->
+</div>
+
+# Partners
+<div class="sponsor-grid">
+    <a href="https://www.reannz.co.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/REANNZ.png"></a> <!-- Running Day 3 workshop -->
+    <a href="https://www.genomics-aotearoa.org.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/GA.jpg"></a> <!-- Running Day 3 workshop -->
 </div>
 
