@@ -32,3 +32,9 @@ header:
     <a href="https://www.geneious.com/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/Geneious.png"></a> <!-- Academic Personal Geneious Prime license as a prize value approx $650 -->
 </div>
 
+# Partners
+<div class="sponsor-grid">
+    <a href="https://www.reannz.co.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/REANNZ.png"></a> <!-- Running Day 3 workshop -->
+    <a href="https://www.genomics-aotearoa.org.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/GA.jpg"></a> <!-- Running Day 3 workshop -->
+</div>
+
