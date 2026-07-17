@@ -19,7 +19,7 @@ header:
 
 <div class="sponsor-grid">
     <a href="https://azorabio.com/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/Azora.png"></a> <!-- $1000 flexible use -->
-    <a href="https://https://www.bio-rad.com/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/bio-rad.png"></a> <!-- $750 -->
+    <a href="https://www.bio-rad.com/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/bio-rad.png"></a> <!-- $750 -->
     <a href="https://www.customscience.co.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/customscience.png"></a> <!-- $500 & free coffee cart -->
     <a href="https://dnature.co.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/DNature.png"></a> <!-- $500 student prizes -->
     <a href="https://rpbc.co.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/RPBC.png"></a> <!-- $500 student travel grant & 1st place student prize $150 -->
