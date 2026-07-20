@@ -12,7 +12,7 @@ header:
 Registration and ticketing is handled through Humanitix.
 
 <a href="https://ticket_site.blah/blah/blah"
-    c="../assets/2026/get_tickets.png"
+    c="/assets/2026/get_tickets.png"
     alt="Get Tickets"
     class="ticket-button-image"
     >
