@@ -11,12 +11,9 @@ header:
 
 Registration and ticketing is handled through Humanitix.
 
-<a href="https://ticket_site.blah/blah/blah"
-    c="/assets/2026/get_tickets.png"
-    alt="Get Tickets"
-    class="ticket-button-image"
-    >
-    </a>
+<div class="sponsor-grid">
+    <a href="https://ticket_site.blah/blah/blah" target="_blank" rel="noopener"><img src="/assets/2026/get_tickets.png"></a> 
+</div>
 
 <!--
 MapNet [registration](https://events.humanitix.com/mapnet2025) is now open.
