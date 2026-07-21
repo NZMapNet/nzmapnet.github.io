@@ -13,7 +13,7 @@ header:
 Registration and ticketing is handled through Humanitix.
 
 <div class="sponsor-grid">
-    <a href="https://ticket_site.blah/blah/blah" target="_blank" rel="noopener"><img src="/assets/2026/register_here.png"></a> 
+    <a href="https://events.humanitix.com/mapnet-2026-conference" target="_blank" rel="noopener"><img src="/assets/2026/register_here.png"></a> 
 </div>
 
  - MapNet registration is $180 NZD + Booking Fee*. This includes conference dinner on Tuesday 3rd November at Zenders.
