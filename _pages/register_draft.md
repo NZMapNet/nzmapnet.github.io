@@ -27,7 +27,7 @@ Registration and ticketing is handled through Humanitix.
 # Student Grants 
 ### _Open until 2nd October 2026_
 
-Thanks to our sponsors we able to offer $500 travel grants to three students wanting to attend MapNet26. 
+Thanks to our sponsors we are able to offer $500 travel grants to three students wanting to attend MapNet26. 
 You may apply for a travel grant without first registering.
 
 - Applications for a Student Travel Grant can be sent to <mapnetnz@gmail.com>
@@ -54,12 +54,12 @@ We will try to accommodate all abstract submissions within the presentation sche
 - After paying for your registration, you can submit your abstract to <mapnetnz@gmail.com> as an attachment (MS Word or similar format), with "abstract" in the subject line
 - If submitting multiple abstracts, please attach each abstract as a separate file
 - Include in the email whether you are submitting for a 15 minute talk or a 5 minute flash talk
-- Include in the email shich session/theme you think would best suit your abstract
+- Include in the email which session/theme you think would best suit your abstract
 - Abstracts can be written in English and/or te reo Māori
 - Include in the abstract: Title, Presenting Author & Affiliations / address, Additional Authors & details, and the body of the abstract
 - Title of Abstract has a 15 word limit
 - Body of the Abstract has a 250 word limit
-- If your submission contains figures or diagrams we will try to accommodate them. The organising committee cannot be held responsible for formatting difficulties, reduced picture quality, or errors that might occur. If they encounter unresolvable difficulties with a figure it might not be included in the published program. We will do our best to reproduce the content of abstracts that contain pictures or diagrams
+- If your submission contains figures or diagrams Please limit these to one per submission and we will try to accommodate them. The organising committee cannot be held responsible for formatting difficulties, reduced picture quality, or errors that might occur. If they encounter unresolvable difficulties with a figure it might not be included in the published program. We will do our best to reproduce the content of abstracts that contain pictures or diagrams
 - Abbreviations should be used only for common terms (for uncommon terms, the abbreviation should be given in brackets after the first full use of the word)
 - Abstracts should be thoroughly checked for correct spelling and grammar before finalising the submission
 - Final formatting will be undertaken by the Programme Organising Committee
