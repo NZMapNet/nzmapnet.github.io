@@ -1,5 +1,5 @@
 ---
-permalink: /register_draft/
+permalink: /register/
 header:
     cta_label: False
     cta_url: False
