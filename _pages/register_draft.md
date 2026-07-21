@@ -25,7 +25,7 @@ Registration and ticketing is handled through Humanitix.
 # Student Grants 
 ### _Open until 2nd October 2026_
 
-Thanks to our sponsors we are able to offer $500 travel grants to three students wanting to attend MapNet26. 
+Thanks to our sponsors we are able to offer a limited number of travel grants to some students wanting to attend MapNet26. 
 You may apply for a travel grant without first registering.
 
 - Applications for a Student Travel Grant can be sent to <mapnetnz@gmail.com>
@@ -52,7 +52,7 @@ We will try to accommodate all abstract submissions within the presentation sche
 - After paying for your registration, you can submit your abstract to <mapnetnz@gmail.com> as an attachment (MS Word or similar format), with "abstract" in the subject line
 - If submitting multiple abstracts, please attach each abstract as a separate file
 - Include in the email whether you are submitting for a 15 minute talk or a 5 minute flash talk
-- Include in the email which session/theme you think would best suit your abstract
+- Include in the email which session/theme you think would best suit your abstract. These session topics can be found on the [programme](https://nzmapnet.github.io/programme/) page.
 - Abstracts can be written in English and/or te reo Māori
 - Include in the abstract: Title, Presenting Author & Affiliations / address, Additional Authors & details, and the body of the abstract
 - Title of Abstract has a 15 word limit
