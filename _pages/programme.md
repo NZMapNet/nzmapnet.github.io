@@ -21,7 +21,7 @@ Please note this is a preliminary schedule and timings may change.
  
 Likely session topics include aquaculture, microbiology, conservation genetics, phylogeny, livestock and companion animal genomics, forestry, viticulture, student research, computational biology, bioinformatics, and practical professional-development themes. 
 
-There will be student flash talks and prizes. Optional workshops, site visits, or tours may also be included in the final programme.
+There will be student flash talks and prizes.
 
 
 

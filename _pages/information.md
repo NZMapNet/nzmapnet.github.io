@@ -9,7 +9,9 @@ header:
 
 ## Key dates
 
-| Registrations opening | July 2026 |
+| Registrations closing | 09 October, 2026 |
+| Abstract Submissions closing | 09 October, 2026 |
+| Student Travel Grant Submissions closing | 02 October, 2026 |
 | MapNet Meeting | 03-04 November, 2026 |
 | Conference Dinner | 03 November, 2026 |
 | Workshop / Excursion | 05 November 2026 |
@@ -23,7 +25,7 @@ MapNet 2026 is being held in the [Tempero Center, LIC (Livestock Improvement Cor
 
 ### Dinner
 
-The Conference dinner this year will be held at [Zenders](https://zenders.nz/), which is 2km from LIC. This is a 2 minute drive from the conference site. You will be able to elect to join us for the dinner and inform us of any dietary requirements when purchasing your conference ticket.
+The Conference dinner this year will be held at [Zenders](https://zenders.nz/), which is 2km from LIC. This is a 2 minute drive from the conference site. Dinner is included in conference registration, and you can inform us of any dietary requirements when purchasing your conference ticket.
 
 ![Zenders](../assets/2026/zenders.jpg)
 
