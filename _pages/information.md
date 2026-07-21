@@ -1,5 +1,5 @@
 ---
-permalink: /info_draft/
+permalink: /info/
 header:
     cta_label: False
     cta_url: False
