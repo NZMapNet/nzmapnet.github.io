@@ -16,9 +16,9 @@ Registration and ticketing is handled through Humanitix.
     <a href="https://events.humanitix.com/mapnet-2026-conference" target="_blank" rel="noopener"><img src="/assets/2026/register_here.png"></a> 
 </div>
 
-| MapNet registration | $180 NZD + Booking Fee* | This includes conference dinner on Tuesday 3rd November at Zenders |
-| Workshop | $30 NZD + Booking Fee* | |
-| Farm Tour | $30 NZD + Booking Fee* | |
+| MapNet registration (Dinner included) | $180 NZD + Booking Fee* |
+| Workshop | $30 NZD + Booking Fee* |
+| Farm Tour | $30 NZD + Booking Fee* |
 
 *Note profits from booking fees taken through Humanitix are donated to charitable organisations.
 
