@@ -5,8 +5,9 @@ header:
   cta_url: false
 ---
 
-# Keynote Speakers
+#Speakers
 
+## Keynote Speakers
 <div class="keynote-grid">
   <div class="keynote-card">
     <h2>Dr Maren Wellenreuther</h2>
@@ -48,7 +49,7 @@ header:
   </div>
 </div>
 
-# Invited Speakers
+## Invited Speakers
 <div class="keynote-grid">
   <div class="keynote-card">
     <h2>Dr Alex Garton</h2>
