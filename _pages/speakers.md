@@ -1,5 +1,5 @@
 ---
-permalink: /keynotes/
+permalink: /speakers/
 header:
   cta_label: false
   cta_url: false
