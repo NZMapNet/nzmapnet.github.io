@@ -43,7 +43,7 @@ header:
          Professor Hayes has extensive research experience in genetic improvement of livestock, crop, pasture and aquaculture species, with a focus on integration of genomic information into breeding programs, including leading many large scale projects which have successfully implemented genomic technologies in livestock and cropping industries. Author of more than 300 journal papers, including in Nature Genetics, Nature Reviews Genetics, and Science, contributing to statistical methodology for genomic, microbiome and metagenomic profile predictions, quantitative genetics including knowledge of genetic mechanisms underlying complex traits, and development of bioinformatics pipelines for sequence analysis. Thomson Reuters highly cited researcher in 2015, 2016, 2017 and 2018.
         </p>
         <p class="bio" style="font-style: italic;">Information sourced from 
-          <a href="https://about.uq.edu.au/experts/ The University of Queensland
+          <a href="https://about.uq.edu.au/experts/14352 The University of Queensland"
           </a>
         </p>
     </div>
