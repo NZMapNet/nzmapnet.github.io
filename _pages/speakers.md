@@ -69,9 +69,9 @@ header:
     </div>
   </div>
   <div class="keynote-card">
-    <h2>Heidi Dungey</h2>
+    <h2>Dr Heidi Dungey</h2>
       <div class="keynote-image">
-        <img src="../assets/2026/speaker_heidi.jpg" alt="Dr Alexandra Garton" />
+        <img src="../assets/2026/speaker_heidi.jpg" alt="Dr Heidi Dungey" />
       </div>
       <div class="keynote-text">
         <p class="institution">Stand Forestry</p>
@@ -79,7 +79,7 @@ header:
         <p class="bio">
          Heidi Dungey is a forest scientist working in the private sector with extensive experience in forest genetics, tree breeding, and the development of improved plantation forestry systems. Her work focuses on applying genetic innovation to enhance forest productivity, resilience, and sustainability. Heidi has led and contributed to numerous collaborative research and industry programmes and is passionate about translating scientific advances into practical outcomes for the forestry sector. Currently working for Stand Forestry, she is committed to developing innovative solutions that support the long-term productivity and resilience of planted forests.
         </p>
-        <p class="bio" style="font-style: italic;">Information provided by Heidi Dungey
+        <p class="bio" style="font-style: italic;">Information provided by Dr Dungey
         </p>
     </div>
   </div>
