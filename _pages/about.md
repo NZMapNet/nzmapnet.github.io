@@ -20,7 +20,7 @@ individual researcher level.
 
 Organisations previously represented include Universities (Auckland, Canterbury, Massey, 
 Otago, Unitec, Victoria), Crown Research Institutes (AgResearch, Environmental 
-Science and Research, Manaaki Wehenua - Landcare Research, NIWA, Plant & Food 
+Science and Research, Manaaki Whenua - Landcare Research, NIWA, Plant & Food 
 Research, Scion) and private entities (AbacusBio, Livestock 
 Improvement Corporation). They encompass New Zealand’s health, primary production, 
 and environment genetics sectors. 
