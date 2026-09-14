@@ -21,7 +21,7 @@ Please note this is a preliminary schedule and timings may change.
  
 Likely session topics include aquaculture, microbiology, conservation genetics, phylogeny, livestock and companion animal genomics, forestry, viticulture, student research, computational biology, bioinformatics, and practical professional-development themes. 
 
-There will be student flash talks and prizes.
+We are now accepting [abstract submissions](https://nzmapnet.github.io/register/) for full talks (15 minutes) and flash talks (5 minutes). Note that there are no poster sessions at MapNet this year.
 
 
 
