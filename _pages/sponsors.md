@@ -36,5 +36,6 @@ header:
 <div class="sponsor-grid">
     <a href="https://www.reannz.co.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/REANNZ.png"></a> <!-- Running Day 3 workshop -->
     <a href="https://www.genomics-aotearoa.org.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/GA.jpg"></a> <!-- Running Day 3 workshop -->
+    <a href="https://www.bioeconomyscience.co.nz/" target="_blank" rel="noopener"><img src="/assets/2026/sponsors/BSI_Ingoa_Logo.png"></a> <!-- Steffi and Natalie's time -->
 </div>
 
