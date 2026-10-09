@@ -8,7 +8,7 @@ header:
 <span></span>
 
 # Registration 
-### _Open until 9th October 2026_
+### _Open until 15th October 2026_
 
 Registration and ticketing is handled through Humanitix.
 
@@ -23,7 +23,7 @@ Registration and ticketing is handled through Humanitix.
 *Note profits from booking fees taken through Humanitix are donated to charitable organisations.
 
 # Student Grants 
-### _Open until 2nd October 2026_
+### _Now Closed_
 
 Thanks to our sponsors we are able to offer a limited number of travel grants to some students wanting to attend MapNet26. 
 You may apply for a travel grant without first registering.
@@ -37,7 +37,7 @@ You may apply for a travel grant without first registering.
  - An abstract submission must be included in the application. (See below for information).
 
 # Abstract Submission
-### _Open until 9th October 2026_
+### _Open until 15th October 2026_
 
 We are accepting abstracts for two talk formats:
 - 15 minute Full talk; As a guide plan to give a 12 minute presentation with 3 minutes for questions.
