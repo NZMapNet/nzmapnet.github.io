@@ -9,9 +9,9 @@ header:
 
 ## Key dates
 
-| Registrations closing | 09 October, 2026 |
-| Abstract Submissions closing | 09 October, 2026 |
-| Student Travel Grant Submissions closing | 02 October, 2026 |
+| Registrations closing | 15 October, 2026 |
+| Abstract Submissions closing | 15 October, 2026 |
+| Student Travel Grant Submissions | CLOSED |
 | MapNet Meeting | 03-04 November, 2026 |
 | Conference Dinner | 03 November, 2026 |
 | Workshop / Excursion | 05 November 2026 |
