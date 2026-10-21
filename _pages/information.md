@@ -31,7 +31,7 @@ The Conference dinner this year will be held at [Zenders](https://zenders.nz/), 
 
 ### Workshop
 
-REANNZ and Genomics Aotearoa have come together to run a one day workshop on [RNA-Seq Data Analysis](https://genomicsaotearoa.github.io/RNA-seq-workshop/). This will begin at approximately 8:30am. This event is catered.
+REANNZ and Genomics Aotearoa have come together to run a one day workshop on [RNA-Seq Data Analysis](https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow-NZ/). This will begin at approximately 8:30am. This event is catered.
 
 ![RNA-Seq Data Analysis image](../assets/2026/rna-seq.png)
 
