@@ -7,21 +7,21 @@ header:
 
 <span></span>
 
-# Preliminary Schedule
+# Schedule
 
 Please note this is a preliminary schedule and timings may change.
 
 | Day | Start time | Finish time | Notes |
 |----------|----------|----------|----------|
 | 1 | 8:30 am | Late evening | Registration opens at 8:30 am; formal sessions finish around 4:30pm, then Happy Hour; conference dinner from 6:00 pm |
-| 2 | 8:30 am | Late afternoon | Formal sessions finish around 4:30 pm; informal activities (i.e. board games) until evening |
-| 3 | 8:30 am | Midday / afternoon | Workshop 9am - 5pm; **OR** Farm Tour 9am - 1pm |
+| 2 | 8:30 am | Late afternoon | Formal sessions finish around 5:00 pm; informal activities until evening |
+| 3 | 8:30 am | Midday / afternoon | Workshop 9am - 4pm; **OR** Farm Tour 9am - 12pm |
 
 
- 
-Likely session topics include aquaculture, microbiology, conservation genetics, phylogeny, livestock and companion animal genomics, forestry, viticulture, student research, computational biology, bioinformatics, and practical professional-development themes. 
+# PDF schedule
 
-We are now accepting [abstract submissions](https://nzmapnet.github.io/register/) for full talks (15 minutes) and flash talks (5 minutes). Note that there are no poster sessions at MapNet this year.
+[Download full PDF schedule here](/assets/2026/programme.pdf)
+
 
 
 
