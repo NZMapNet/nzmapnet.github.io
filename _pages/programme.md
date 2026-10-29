@@ -20,17 +20,8 @@ Please note this is a preliminary schedule and timings may change.
 
 # PDF schedule
 
-[Download PDF schedule here](/assets/2026/programme.pdf)
+[Download full PDF schedule here](/assets/2026/programme.pdf)
 
-<object
-    data="/assets/2026/programme.pdf"
-    type="application/pdf"
-    width="100%">
-    <p>
-        Your browser does not support embedded PDFs. Please use the download link above.
-    </p>
-</object>
-    
 
 
 
