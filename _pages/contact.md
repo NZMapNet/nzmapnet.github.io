@@ -11,7 +11,7 @@ header:
 
 You can email the MapNet organisers at <a hef="mailto:mapnetnz@gmail.com">mapnetnz@gmail.com</a>. This is the preferred method of contact.
 
-## The MapNet26 Team
+## The MapNet26 Organising Team
 
 - Chad Harland
 - Emma Voss
@@ -23,4 +23,5 @@ You can email the MapNet organisers at <a hef="mailto:mapnetnz@gmail.com">mapnet
 - Thomas Lopdell
 
 
+## MapNet Steering Committee
 
