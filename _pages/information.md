@@ -7,14 +7,17 @@ header:
 
 <span></span>
 
-## Key dates
+## Key Information
 
-| Registrations closing | 15 October, 2026 |
-| Abstract Submissions closing | 15 October, 2026 |
-| Student Travel Grant Submissions | CLOSED |
 | MapNet Meeting | 03-04 November, 2026 |
+| Meeting Location | [Tempero Center, LIC (Livestock Improvement Corporation)](https://maps.app.goo.gl/kDXq9xjbcBQDU2vN8) |
+| [Programme PDF](https://nzmapnet.github.io/assets/2026/programme.pdf) |  |
 | Conference Dinner | 03 November, 2026 |
 | Workshop / Excursion | 05 November 2026 |
+| [Registrations](https://nzmapnet.github.io/register/) closing | CLOSED |
+| [Abstract Submissions](https://nzmapnet.github.io/register/) closing | CLOSED |
+| [Student Travel Grant](https://nzmapnet.github.io/register/) Submissions | CLOSED |
+
 
 
 ### Conference
