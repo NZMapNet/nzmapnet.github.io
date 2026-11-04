@@ -44,26 +44,12 @@ All slides and presentation materials are subject to the code of conduct. Materi
 
 ## Social Media
 
-<!--
-If you are using X (a.k.a. the social media platform formerly known as Twitter), tag your conference posts #mapn25
--->
-
 Please respect the requests of speakers and conference attendees that ask or suggest not to be included in social media posts.
 
 ## Need help?
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please email us at <a hef="mailto:mapnetnz@gmail.com">mapnetnz@gmail.com</a> or contact one of the MapNet team directly (listed below).
 
-## MapNet team
-
-- Chad Harland
-- Emma Voss
-- Fenella Deans
-- Hannah Trebes
-- Laura Duntsch
-- Natalie Graham
-- Steffi Fritsche
-- Thomas Lopdell
 
 #### Adapted with permission from:
 
