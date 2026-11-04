@@ -7,18 +7,10 @@
 #  Pages can be accessable if not on this list by directly entering the URL.
 
 main:
-   - title: "About"
-     url: /about/
    - title: "Event Information"
      url: /info/
-   - title: "Programme"
-     url: /programme/
-   - title: "Speakers"
-     url: /speakers/
-   - title: "Register"
-     url: /register/
-   - title: "Sponsors"
-     url: /sponsors/
+   - title: "Past Events"
+     url: /history/
    - title: "Contact"
      url: /contact/
    - title: "Conduct"
