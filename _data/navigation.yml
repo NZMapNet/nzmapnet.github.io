@@ -1,3 +1,11 @@
+# This file determines what pages can be accessed via the navigation menu at the top of the page.
+#  Top down on this list dictates the left-to-right order the options appear.
+#
+#  If there are more options than will fit on the screen then those lower on the list will be 
+#  compressed into an expandable section.
+#
+#  Pages can be accessable if not on this list by directly entering the URL.
+
 main:
    - title: "About"
      url: /about/
@@ -9,16 +17,9 @@ main:
      url: /speakers/
    - title: "Register"
      url: /register/
-#   - title: "Abstracts"
-#     url: /abstracts/
-#   - title: "Workshops"
-#     url: /workshops/
-
    - title: "Sponsors"
      url: /sponsors/
    - title: "Contact"
      url: /contact/
    - title: "Conduct"
      url: /conduct/
-#   - title: "Travel Grants"
-#     url: /travel grants/
